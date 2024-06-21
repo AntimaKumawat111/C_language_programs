@@ -1,0 +1,48 @@
+C Programming Projects
+
+This repository contains a collection of C programming projects. Each file demonstrates a specific algorithm or functionality. Below is a brief description of each program.
+List of Programs
+
+1. area_of_circle.c
+
+    Description: This program calculates the area of a circle given its radius.
+
+2. calculate_x_power_y.c
+
+    Description: This program calculates xx raised to the power of yy.
+
+3. check_co-prime_number.c
+
+    Description: This program checks if two numbers are co-prime (i.e., their greatest common divisor (GCD) is 1).
+
+4. check_prime_number.c
+
+    Description: This program checks if a given number is prime.
+
+5. factorial.c
+
+    Description: This program calculates the factorial of a given number.
+
+6. fibonacci_series.c
+
+    Description: This program generates the Fibonacci series up to a specified number of terms.
+
+7. hcf_of_2_number.c
+
+    Description: This program calculates the highest common factor (HCF) of two numbers.
+
+8. hcf_of_3_number.c
+
+    Description: This program calculates the highest common factor (HCF) of three numbers.
+
+9. palindrom_number.c
+
+    Description: This program checks if a given number is a palindrome.
+
+10. reverse_digits.c
+
+    Description: This program reverses the digits of a given number.
+
+11. take_something_return_something.c
+
+    Description: This program demonstrates a function that takes an input and returns an output (details unspecified).
